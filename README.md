@@ -137,19 +137,19 @@ Based on the analysis:
 ## 📷 Dashboard Preview
 
 ### Home
-![Home Dashboard](Screenshots/Home.png)
+![Home Dashboard](DashboardScreenshots/Home.png)
 
 ### Overview
-![Overview Dashboard](Screenshots/Overview.png)
+![Overview Dashboard](DashboardScreenshots/Overview.png)
 
 ### Revenue
-![Revenue Dashboard](Screenshots/Revenue.png)
+![Revenue Dashboard](DashboardScreenshots/Revenue.png)
 
 ### Rider
-![Rider Dashboard](Screenshots/Rider.png)
+![Rider Dashboard](DashboardScreenshots/Rider.png)
 
 ### Vehicle
-![Vehicle Dashboard](Screenshots/Vehicle.png)
+![Vehicle Dashboard](DashboardScreenshots/Vehicle.png)
 
 
 ---
