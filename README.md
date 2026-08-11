@@ -138,6 +138,7 @@ Based on the analysis:
 
 ### For the complete project methodology, data definitions, detailed findings, business recommendations, data limitations, and analysis, refer to:
 
+[📘 View Detailed Documentation](Documentation/your-documentation-file-name.pdf)
 ![Uber Ride Analytics –](Documentation/Uber_Ride_Analytics_Documentation.pdf)
 
 ---
