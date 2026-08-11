@@ -134,35 +134,13 @@ Based on the analysis:
 
 ---
 
-## 📷 Dashboard Preview
-
-### Home
-![Home Dashboard](Dashboard Screenshots/Home.png)
-
-### Overview
-![Overview Dashboard](Dashboard Screenshots/Overview.png)
-
-### Revenue
-![Revenue Dashboard](Dashboard Screenshots/Revenue.png)
-
-### Rider
-![Rider Dashboard](Dashboard Screenshots/Rider.png)
-
-### Vehicle
-![Vehicle Dashboard](Dashboard Screenshots/Vehicle.png)
-
-
----
-
 ## 📄 Detailed Documentation
 
 ### For the complete project methodology, data definitions, detailed findings, business recommendations, data limitations, and analysis, refer to:
 
 ![Uber Ride Analytics –](Documentation/Uber_Ride_Analytics_Documentation.pdf)
 
-## 👨‍💻 Author
-
-### Sujal Mondal
+---
 
 ## ⭐ Final Takeaway
 
@@ -171,5 +149,13 @@ This project demonstrates how **raw ride-booking data can be transformed into ac
 The analysis highlights clear opportunities to improve **booking completion, reduce operational cancellations, optimize driver availability, and strengthen customer retention**.
 
 > **Turning data into decisions — one dashboard at a time. 🚀**
+
+---
+
+## 👨‍💻 Author
+
+### Sujal Mondal
+
+---
 
 If you find this project useful, feel free to ⭐ **star the repository** and explore the dashboard.
